@@ -1,0 +1,70 @@
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  background-color: #3f0652;
+  
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.app-wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+
+
+.container {
+  flex: 1;
+}
+
+.about{
+    font-size: 2.5rem;
+    text-align: center;
+    padding-top: 150px;
+    color: #e2dfe3;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.home{
+    font-size: 2.5rem;
+    text-align: center;
+    padding-top: 150px;
+    color: #e2dfe3;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+.projects{
+    font-size: 2.5rem;
+    text-align: center;
+    padding-top: 150px;
+    color: #e2dfe3;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.contact{
+    font-size: 2.5rem;
+    text-align: center;
+    padding-top: 150px;
+    color: #e2dfe3;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.notfound{
+    font-size: 2.5rem;
+    text-align: center;
+    padding-top: 150px;
+    color: #e2dfe3;
+    font-family: 'Roboto', sans-serif;
+
+}
